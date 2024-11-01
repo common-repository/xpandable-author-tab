@@ -1,0 +1,134 @@
+#xpandable-author-tab-div 
+{
+	background:#F7F7F7; 
+	margin:0px 0px 0px 0px; 
+	padding:10px 0; 
+	border:1px solid #E6E6E6; 
+	overflow:hidden; 
+	width:100%;
+	height: auto;
+	-moz-box-shadow: 3px 3px 4px #AAA;
+	-webkit-box-shadow: 3px 3px 4px #AAA;
+	box-shadow: 3px 3px 4px #AAA;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA');	
+}
+
+#xpandable-author-tab-div h6 
+{
+	text-align: justify;
+	margin:10px 0px 0px 0px; 
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;	
+
+}
+
+
+#xpandable-author-tab-div .avatar
+{
+	float:left; 
+	margin:0px 3px 3px 3px; 
+	padding:3px;
+	padding-right: 3px;
+	padding-left: 3px;
+	padding-bottom: 3px;
+}
+
+#xpandable-author-tab-div .xpandable-author-tab-div-meta
+{
+        margin-top: -3px;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;	
+
+}
+#xpandable-author-tab-div .socialbuttons
+{
+	background: #FFF; 
+	float:left; 
+	margin:0 0px 0 5px; 
+	padding:3px; 
+	-moz-box-shadow: 3px 3px 4px #AAA;
+	-webkit-box-shadow: 3px 3px 4px #AAA;
+	box-shadow: 3px 3px 4px #AAA;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA');
+}
+#xpandable-author-tab-div ul 
+{
+       padding: 15px 0 0 0;
+	overflow:hidden; 
+	margin:-1px; 
+	padding:10px;
+        font-size: 70%;
+}
+#xpandable-author-tab-div ul h6
+{
+	overflow:hidden; 
+	margin:-1px; 
+	padding:5px;
+        font-size: 70%;
+
+}
+
+#xpandable-author-tab-div ul li 
+{
+	list-style-type: disc; 
+	float:left; 
+	margin:0px 0px 0 0; 
+	padding:0 0 0 6px; 
+	line-height:120%; 
+	padding-left: 15px;
+	padding-right: 5px;
+	opacity: 1;
+	list-style-position: inside;
+}
+
+#xpandable-author-tab-div ul li.first 
+{
+	border:none; 
+	padding:0;
+}
+#xpandable-author-tab-div .xpandable-author-tab-div-buttons
+{
+	margin:10px 0px 0px 0px; 
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;	
+}
+#xpandable-author-tab-div .morebutton
+{
+        font-size: 70%;
+ 	background:#F7F7F7; 
+        margin-left:-3px;
+	-moz-box-shadow: 3px 3px 4px #AAA;
+	-webkit-box-shadow: 3px 3px 4px #AAA;
+	box-shadow: 3px 3px 4px #AAA;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA');	
+}
+
+
+#xpandable-author-tab-div .xpandable-author-tab-div-info-footer, .balogo
+{
+	overflow:hidden; 
+	margin:-1px; 
+        margin-top: 10px;
+	padding:5px;
+        font-size: 30%;
+        float: right;
+}
+xpandable-author-tab-div .balogo
+{
+	overflow:hidden; 
+}
